@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/gtardio/wordpress-theme/issues"
   },
-  "homepage": "https://github.com/gtardio/wordpress-theme#readme"
+  "homepage": "https://github.com/gtardio/wordpress-theme#readme",
+  "devDependencies": {
+    "laravel-mix": "^4.0.14",
+    "resolve-url-loader": "^2.3.1",
+    "sass": "^1.17.0",
+    "sass-loader": "^7.1.0"
+  }
 }
